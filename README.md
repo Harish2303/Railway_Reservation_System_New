@@ -29,3 +29,12 @@ This project is a **Railway Reservation System** built with **ASP.NET Web API (.
 
 1. Open SQL Server Management Studio
 2. Run the script from:
+3. This will create all tables and insert demo data automatically.
+
+---
+
+## ▶️ Running the Project
+
+1. Clone this repo:
+```bash
+git clone https://github.com/yourusername/Railway_Reservation_System.git
